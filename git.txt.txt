@@ -1,10 +1,15 @@
 This is a test. 
-This is a test.
 <<<<<<< HEAD
 This is a test.
+<<<<<<< HEAD
 =======
 I am trying my best to do this
 
 We are learning!!!!!!!
 I am so confused!!!!!
 >>>>>>> 071071b11e8e9953b22660e6407b83f71f441e2f
+=======
+This is a test. testtesttesttest
+
+We are learning!!!!!!!
+I am so confused!!!!!
